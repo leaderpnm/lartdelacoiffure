@@ -1,0 +1,162 @@
+# Contexte du projet
+
+Création d’un site vitrine pour **L’art de la Coiffure**, salon haut de gamme à Paris 20, dédié à la mise en valeur du cheveu sous toutes ses formes : **balayage, coupe sur-mesure, lissage, traitement capillaire et pose de perruques**.
+
+L’objectif : refléter une **signature artistique**, une atmosphère **élégante, créative et apaisante**, où chaque client(e) se sent pris(e) en charge par de vrais experts.
+
+---
+
+# Paramètres généraux
+
+- **Couleur principale** : Pourpre intense `#650840`
+- **Couleur secondaire** : Or doux `#D4AF37` ou Beige clair pour contraster subtilement
+- **Fond général** : Blanc cassé `#FAF8F8` ou `#FDFDFD`
+- **Typographie** : 
+  - Titres : `Playfair Display` (pour un style chic et raffiné)
+  - Texte courant : `Inter` ou `Manrope` (sobre et lisible)
+- **Langue** : Français (`fr-FR`)
+- **Layout** : Onepage à ancrage fluide, navigation sticky
+- **Animations** : Transitions élégantes (fade-in, slide-up)
+- **Responsive** : Mobile-first, impeccable sur tous les écrans
+
+---
+
+# Navigation
+
+- Logo du salon à gauche
+- Liens à droite : `Accueil`, `Prestations`, `Galerie`, `Avis`, `Tarifs`, `Contact`
+- Survol : effet doré ou souligné, transition douce
+
+---
+
+# Hero – Accueil
+
+- Écran plein (`100vh`)
+- **H1** :  
+  _L’art de la Coiffure_
+- **Sous-titre** :  
+  _Votre salon de coiffure d’exception à Paris 20_
+- **CTA principal** : `Prendre Rendez-vous` → ancre vers `#contact`
+- Image de fond : ambiance salon chic ou photo d’une coupe élégante
+
+---
+
+# Section Présentation
+
+- Titre : `À propos`
+- Texte :
+  - Présentation du savoir-faire : expertise, accueil personnalisé, conseils adaptés à chaque type de cheveu
+  - Adresse : `52 Rue de Terre Neuve, 75020 Paris`
+  - Téléphone : `09 82 48 77 07`
+  - Horaires : 
+    ```
+    lundi, mercredi, jeudi, vendredi, samedi : 09:30–18:30
+    mardi, dimanche : Fermé
+    ```
+
+---
+
+# Section Nos Prestations
+
+- Titre : `Nos Prestations`
+- Grille ou liste élégante avec icônes stylisées :
+  - Balayage
+  - Coupe de cheveux pour enfants
+  - Coupe pour cheveux bouclés
+  - Coloration des cheveux
+  - Traitement capillaire
+  - Lissage à la kératine
+  - Lissage permanent des cheveux
+  - Pose de perruque
+  - Coupe de cheveux femme
+- Chaque service : courte description et pictogramme fin
+
+---
+
+# Section Galerie
+
+- Titre : `Nos Réalisations`
+- Slider ou grille avant/après mettant en valeur :
+  - Balayages lumineux
+  - Coupes modernes
+  - Cheveux bouclés sublimés
+  - Lissages soyeux
+
+---
+
+# Section Tarifs
+
+- Titre : `Nos Tarifs`
+- Cartes ou tableau chic :
+  - Service
+  - Prix indicatif
+  - Durée approximative si pertinent
+
+---
+
+# Section Avis
+
+- Titre : `Elles & Ils témoignent`
+- Slider avec vrais avis :
+  - Nom / prénom
+  - Témoignage court
+  - Note éventuelle
+  - Photo facultative
+
+---
+
+# Section Contact / Prendre Rendez-vous
+
+- Titre : `Prendre Rendez-vous`
+- Formulaire :
+  - Nom
+  - Prénom
+  - Email
+  - Téléphone
+  - Service souhaité (liste déroulante)
+  - Message libre
+  - Bouton `Envoyer`
+- Coordonnées en rappel
+- Carte Google Maps intégrée (localisation)
+- Téléphone cliquable sur mobile
+
+---
+
+# Footer
+
+- Logo ou nom stylisé
+- `© L’art de la Coiffure – Tous droits réservés.`
+- Icônes réseaux sociaux (Instagram, Facebook)
+- Ton pourpre ou fond blanc, texte contrasté
+
+---
+
+# Règles de développement
+
+- Utiliser **Shadcn UI** pour des composants élégants et cohérents
+- Composants modulaires : 1 composant = 1 section
+- Code propre, commenté, structuré
+- Images optimisées
+- SEO de base (balises meta, structure titres H1-H3, balises alt)
+- Transitions fluides, expérience utilisateur soignée
+
+---
+
+## Coordonnées complètes
+
+- 📍 **Adresse** : 52 Rue de Terre Neuve, 75020 Paris
+- 📞 **Téléphone** : 09 82 48 77 07
+- 🕒 **Horaires** :  
+  - Lundi, Mercredi, Jeudi, Vendredi, Samedi : 09:30–18:30  
+  - Mardi, Dimanche : Fermé
+
+---
+
+# Mots-clés SEO suggérés
+
+- salon de coiffure Paris 20
+- balayage Paris 20
+- coupe cheveux bouclés Paris
+- lissage kératine Paris
+- pose de perruque Paris
+
